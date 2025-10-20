@@ -24,28 +24,35 @@ Below are the Postman screenshots demonstrating the functionality of all require
 
 ### 1. Test: Create a Task (PUT /tasks)
 
-<img width="639" height="395" alt="1" src="https://github.com/user-attachments/assets/c0f00830-54aa-4c6b-ac12-f6ddc3125e8e" />
+<img width="956" height="453" alt="1" src="https://github.com/user-attachments/assets/203615be-c623-4da7-9132-d183094e7d43" />
+
 
 ### 2. Test: Get All Tasks (GET /tasks)
 
-<img width="639" height="397" alt="2" src="https://github.com/user-attachments/assets/d33552d2-1aac-4a20-a2d5-01a40a9e0dd0" />
+<img width="956" height="455" alt="2" src="https://github.com/user-attachments/assets/585eb0de-7ac2-4b34-b737-5ec26b314bfc" />
+
 
 ### 3. Test: Get Task by ID (GET /tasks?id=123)
 
-<img width="641" height="389" alt="3" src="https://github.com/user-attachments/assets/4188c221-a555-4c2e-b0b8-1b6acfe8edc0" />
+<img width="959" height="453" alt="3" src="https://github.com/user-attachments/assets/1edbf92e-b34a-4c89-bb0d-74e415603201" />
+
 
 ### 4. Test: Find Task by Name (GET /tasks/findByName)
 
-<img width="638" height="397" alt="4" src="https://github.com/user-attachments/assets/43fef16c-02ab-4924-a2d5-258141588db0" />
+<img width="958" height="456" alt="4" src="https://github.com/user-attachments/assets/3af1dc89-cfed-4ad9-bcab-10ea0e346d91" />
+
 
 ### 5. Test: Execute Task (PUT /tasks/123/execute)
 
-<img width="635" height="400" alt="5" src="https://github.com/user-attachments/assets/d0f4cb06-79b2-4acd-9dd6-173fde310ba7" />
+<img width="959" height="455" alt="5" src="https://github.com/user-attachments/assets/08ee6ca4-bacf-4aed-abb7-67ff26f32b48" />
+
 
 ### 6. Test: Delete Task (DELETE /tasks/123)
 
-<img width="644" height="400" alt="6" src="https://github.com/user-attachments/assets/4eba154c-2fba-40fd-8aba-8e9e03379bf1" />
+<img width="959" height="455" alt="6" src="https://github.com/user-attachments/assets/c5dedef3-d961-476f-ad96-6ee9759d728b" />
+
 
 ### 7. Test: Verify Deletion (GET /tasks)
 
-<img width="640" height="400" alt="7" src="https://github.com/user-attachments/assets/80475fbc-6f63-48eb-99b6-f82144ccf2d7" />
+<img width="959" height="455" alt="7" src="https://github.com/user-attachments/assets/bc18edb1-4f45-465d-905d-d98292fd36b1" />
+
